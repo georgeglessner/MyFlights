@@ -1,0 +1,6 @@
+[master 496e412] Update flight log
+ 3 files changed, 19 insertions(+)
+ create mode 100755 flightlog.sh
+ create mode 100644 log.log
+To https://github.com/georgeglessner/MyFlights.git
+   2bd2aaa..496e412  master -> master
